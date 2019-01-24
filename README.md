@@ -39,10 +39,10 @@ Your `index.html` is an order form for customers: it will have an order form for
 
 ## Process
 
-There's nothing really new here, just extensions and adaptations of previous things we have done. Here's some things to think about as you go plan out the lab for today:
+There's nothing really new here, just extensions and adaptations of previous things we have done, and a lot more of it, with you also working in code that you did not write. Here's some things to think about as you go plan out the lab for today:
 
 1. You'll need to use local storage to share data between the two HTML pages.
-1. The constructor from BusMall might be handy as a way to organize your products.
-1. You and your partner should plan out how you want to collaboratively attack the problem with regards to pair programming. It's up to you how the details are managed, but make sure each partner makes contributions in both CSS and JS files.
+1. You and your partner(s) should plan out how you want to collaboratively attack the problem with regards to pair programming. It's up to you how the details are managed, but make sure each partner makes contributions in both CSS and JS files.
+1. This is all about the experience. Maximize it, do your best, and stop working by 6:00pm if you are not finished. Submit what you have.
 
 ### *Remember to submit a link to your last pull request on Canvas!*
