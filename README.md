@@ -33,8 +33,8 @@ Your `index.html` is an order form for customers: it will have an order form for
   1. Each order should have a button "Delete this item" that will remove that order from the DOM (and array of ordered items) when it is clicked.
   1. Text inputs for name, street, city, state, ZIP code, and phone number.
   1. An input of `type="number"` to enter a 16-digit credit card number.
-  1. A "Process Order" button to submit the order. When the order is submitted, all of the input fields should be cleared.
-  1. An animated confirmation message using CSS and JS.
+  1. A "Process Order" button to "submit" the order by doing a `console.log() of the data from the form. When the order is submitted, all of the input fields should be cleared.
+  1. An animated confirmation message using CSS and JS, "Thank you, your order is submitted!" or the like. That could be as basic as an `alert()`, but you could also do an overlay.
 
 
 ## Process
